@@ -47,7 +47,7 @@ body {
 .skillsbox {
   padding: 10px;
   display: flex;
-  height: 200vh;
+  height: 30vh;
   margin-left: 0px;
   border-bottom: 1px solid grey;
 }
@@ -56,7 +56,7 @@ body {
   font-family: "Simonetta", cursive;
 }
 .info ul li {
-  padding: 8px;
+  padding: 0.2rem;
 }
 #skillset {
   margin-left: 20px;
@@ -89,7 +89,7 @@ body {
 .toolbox {
   padding: 10px;
   display: flex;
-  height: 200vh;
+  height: 30vh;
   border-bottom: 1px solid grey;
 }
 #div1 {
@@ -101,7 +101,7 @@ body {
 }
 .servicebox {
   padding: 10px;
-  height: 200vh;
+  height: 30vh;
   display: flex;
   padding-left: 0px;
 }
