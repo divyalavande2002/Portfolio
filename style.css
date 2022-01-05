@@ -45,7 +45,7 @@ body {
 }
 
 .skillsbox {
-  padding: 10px;
+  padding: 2rem;
   display: flex;
   height: 30vh;
   margin-left: 0px;
@@ -59,35 +59,35 @@ body {
   padding: 0.2rem;
 }
 #skillset {
-  margin-left: 20px;
+  margin-left: 0.2rem;
 }
 #skillimg {
-  height: 160px;
+  height: 14rem;
   width: 22vw;
-  margin-left: 60px;
+  margin-left: 0.6rem;
   float: right;
-  padding-left: 60px;
+  padding-left: 0.6rem;
 }
 #serimg {
-  height: 160px;
+  height: 16rem;
   width: 20vw;
-  margin-left: 200px;
+  margin-left: 2rem;
   float: right;
-  padding-left: 60px;
+  padding-left: 0.6rem;
 }
 #toolimg {
-  height: 160px;
+  height: 16rem;
   width: 18vw;
-  padding-right: 100px;
-  margin-left: 20px;
+  padding-right: 1rem;
+  margin-left: 0.2rem;
 }
 #tool {
-  margin-left: 140px;
-  padding-top: 10px;
+  margin-left: 1.4rem;
+  padding-top: 0.1rem;
 }
 
 .toolbox {
-  padding: 10px;
+  padding: 2rem;
   display: flex;
   height: 30vh;
   border-bottom: 1px solid grey;
@@ -100,7 +100,7 @@ body {
   float: right;
 }
 .servicebox {
-  padding: 10px;
+  padding:2rem;
   height: 30vh;
   display: flex;
   padding-left: 0px;
