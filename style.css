@@ -47,8 +47,7 @@ body {
 .skillsbox {
   padding: 10px;
   display: flex;
-  height: 200px;
-  width:100vw;
+  height: 200vh;
   margin-left: 0px;
   border-bottom: 1px solid grey;
 }
@@ -90,8 +89,7 @@ body {
 .toolbox {
   padding: 10px;
   display: flex;
-  height: 200px;
-  width:100vw;
+  height: 200vh;
   border-bottom: 1px solid grey;
 }
 #div1 {
@@ -103,8 +101,7 @@ body {
 }
 .servicebox {
   padding: 10px;
-  height: 200px;
-  width:100vw;
+  height: 200vh;
   display: flex;
   padding-left: 0px;
 }
