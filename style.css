@@ -230,14 +230,14 @@ footer {
   color: white;
   background-color: rgb(82, 82, 82);
   height: 6rem;
-  padding-left: 15rem;
+  padding-left: 10rem;
   padding-top: 2rem;
   justify-content: center;
   font-family: "Simonetta";
 }
 #copyright {
   height: 1.5rem;
-  margin-left: -15rem;
+  margin-left: -10rem;
   text-align: center;
   font-size: smaller;
   background-color: rgb(58, 58, 58);
