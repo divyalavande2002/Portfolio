@@ -120,8 +120,8 @@ body {
   font-family: "Simonetta";
 }
 .imge {
-  height: 10rem;
-  width: 12rem;
+  height: 8rem;
+  width: 10rem;
   box-shadow: 10px 10px 10px rgb(80, 79, 79);
   margin-top: 0.5rem;
   margin-left: 0.5rem;
@@ -129,8 +129,8 @@ body {
 }
 .img13 {
   box-shadow: 10px 10px 10px rgb(80, 79, 79);
-  height: 10rem;
-  width: 12rem;
+  height: 8rem;
+  width: 10rem;
   margin-top: 0.5rem;
   margin-right: 0.5rem;
   border-radius: 0.4rem;
